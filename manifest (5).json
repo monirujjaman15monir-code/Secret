@@ -1,0 +1,13 @@
+{
+  "background_color": "#040000",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "secret-pearl-theta.vercel",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "secret",
+  "start_url": "/",
+  "theme_color": "#0b0000",
+  "id": "Monir",
+  "description": "This app is very beautiful and amazing. It is very necessary for everyone."
+}
